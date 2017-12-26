@@ -9,7 +9,7 @@ import pygame
 import time
 import aubio
 
-from shapes import Line, Polygon
+from shapes import black, Line, Polygon
 from tools import wavelength_to_rgb, pitch_to_note, roundup
 
 
